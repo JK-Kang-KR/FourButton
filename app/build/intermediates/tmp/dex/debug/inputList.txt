@@ -1,0 +1,4 @@
+C:\CookAndroid\Project\FourButton\app\build\intermediates\classes\debug
+C:\CookAndroid\Project\FourButton\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-6c3a66425127254314bbd19ca3f24cdd8530d224.jar
+C:\CookAndroid\Project\FourButton\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-5a9538ce07f93feaa5f2dc5a945202acb6ccfbc9.jar
+C:\CookAndroid\Project\FourButton\app\build\intermediates\pre-dexed\debug\classes-c4835c9ba9867ce36830e191fb5870fb2d424194.jar
